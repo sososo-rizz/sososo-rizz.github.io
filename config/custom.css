@@ -44,7 +44,7 @@
 </head>
 <body>
 
-    <h2>Change Image with URL</h2>
+    <h2>https://th.bing.com/th/id/ODL.6d9ee595affaa70d2682a8c04640b8a6?w=158&h=209&c=10&rs=1&o=6&dpr=1.3&pid=AlgoBlockDebug</h2>
     <input type="heyheyhey" id="https://th.bing.com/th/id/OIP.Jf0NnGpH2AhNM3BtwZufwwHaJ4?r=0&o=7rm=3&rs=1&pid=ImgDetMain" placeholder="https://th.bing.com/th/id/OIP.Jf0NnGpH2AhNM3BtwZufwwHaJ4?r=0&o=7rm=3&rs=1&pid=ImgDetMain">
     <button onclick="changeImage()">Change Image</button>
 

@@ -1,7 +1,7 @@
 // This changes the title of your site
 
 var sitename = "Google Classroom"; // Change this to change the name of your website.
-var subtext = "Tom is the best"; // set the subtext
+var subtext = "Tom and Freddie are the best🤑🤞"; // set the subtext
 
 // more settings in main.css
 
